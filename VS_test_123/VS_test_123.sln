@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "VS_test_123", "VS_test_123\VS_test_123.mdproj", "{0BBC9F10-068C-4799-AD9B-6A70D79C6DD9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{12ADD950-8C49-410B-B966-FBEE6CB5709A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Any CPU = Default|Any CPU
